@@ -34,6 +34,18 @@ Clone repository ini:
 ```bash
 git clone https://github.com/daffapasker/ALLS-RECIPE.git
 cd ALLS-RECIPE
+```
+
+Install dependencies:
+```bash
+npm install
+```
+
+Jalankan development server:
+```bash
+npm run dev
+```
+Buka browser dan akses http://localhost:3000
 
 📁 Struktur Folder
 .
